@@ -21,4 +21,7 @@ solr configuration
 
 web gui configuration
 
-türkçe.md ekle
+
+
+
+[Türkçe açıklama için tıklayınız!](https://github.com/cornetto/SpellChecker/wiki/Implementation-Details)  

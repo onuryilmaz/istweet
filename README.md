@@ -6,6 +6,10 @@ istweet
 açıklama!
 
 
+Demo
+=======
+
+
 System Overview
 =======
 
@@ -18,3 +22,4 @@ solr configuration
 
 web gui configuration
 
+türkçe.md ekle

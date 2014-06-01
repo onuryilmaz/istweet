@@ -1,7 +1,6 @@
-istweet
+İşTweet: Turkish Job Search Engine for Twitter
 =======
 
-İşTweet: Turkish Job Search Engine for Twitter
 
 açıklama!
 

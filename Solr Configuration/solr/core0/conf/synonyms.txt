@@ -1,0 +1,10 @@
+çağrı merkezi, müşteri temsilcisi
+kurye, kargo
+bilgisayar, yazılım
+stajyer, yaz 
+avukat, hukuk
+grafiker, tasarımcı
+satış, mağaza
+emlak, gayrimenkul
+muhasebe, finans
+ERP, SAP

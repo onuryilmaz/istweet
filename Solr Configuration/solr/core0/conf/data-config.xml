@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dataConfig>
+	<dataSource type="JdbcDataSource"   driver="com.mysql.jdbc.Driver"
+   url="jdbc:mysql://*****/twittercatcher"
+   user="://*****/" password="://*****/"/>
+
+	<document name="jobtweets">
+		<entity name="jobtweet"
+query=		 "SELECT id, text, user, url_1, created_at, popularity, fb_unrelated  FROM twittercatcher.processedtweets"
+deltaImportQuery="SELECT id, text, user, url_1, created_at, popularity, fb_unrelated  FROM twittercatcher.processedtweets"
+deltaQuery=	 "SELECT id, text, user, url_1, created_at, popularity, fb_unrelated  FROM twittercatcher.processedtweets">
+			<field column="id" name="id" />
+			<field column="text" name="text" /> 
+			<field column="user" name="user" /> 
+			<field column="url_1" name="firstURL" /> 
+			<field column="created_at" name="date" /> 
+			<field column="popularity" name="popularity" /> 
+			<field column="fb_unrelated" name="fb_unrelated" /> 
+
+		</entity>
+	</document>
+</dataConfig>
+

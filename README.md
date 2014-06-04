@@ -7,6 +7,7 @@ açıklama!
 
 ### Demo
  
+![](https://raw.githubusercontent.com/cornetto/PunchbagOpenGL/master/wiki/punchbag-simulator.jpg)
 
 
 ### System Overview

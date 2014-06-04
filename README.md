@@ -7,7 +7,9 @@ açıklama!
 
 ### Demo
  
-![](https://raw.githubusercontent.com/cornetto/PunchbagOpenGL/master/wiki/punchbag-simulator.jpg)
+![](https://raw.githubusercontent.com/cornetto/istweet/master/Logo/Logo_03.png)
+
+[istweet.com](http://istweet.com)  
 
 
 ### System Overview

@@ -24,4 +24,4 @@ web gui configuration
 
 
 
-[Türkçe açıklama için tıklayınız!](https://github.com/cornetto/SpellChecker/wiki/Implementation-Details)  
+[Türkçe açıklama için tıklayınız!](https://github.com/cornetto/istweet/blob/master/README_tr.md)  

@@ -14,6 +14,8 @@ Working demo is availble at: [istweet.com](http://istweet.com)
 
 Design of İşTweet is divided into four main components according to their functionalities. 
 
+[](https://raw.githubusercontent.com/cornetto/istweet/master/Logo/system_overview.png)
+
 * **Twitter Catcher** is in touch with Twitter API for gathering tweets. 
 * **Database system** is the place where all raw and processed data are stored. 
 * **Search server** is responsible for information retrieval tasks. 

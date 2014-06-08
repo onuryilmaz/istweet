@@ -1,25 +1,23 @@
+![](https://raw.githubusercontent.com/cornetto/istweet/master/Logo/logo_small.png)
 ## İşTweet: Turkish Job Search Engine for Twitter
 =======
 
-
-açıklama!
+İşTweet (pronounced as ɪʃ - twiːt) is a Twitter search engine for jobs in Turkish language.
 
 
 ### Demo
- 
-![](https://raw.githubusercontent.com/cornetto/istweet/master/Logo/Logo_03.png)
 
-[istweet.com](http://istweet.com)  
+Working demo is availble at: [istweet.com](http://istweet.com)  
 
 
 ### System Overview
 
 Design of İşTweet is divided into four main components according to their functionalities. 
 
-**Twitter Catcher** is in touch with Twitter API for gathering tweets. 
-**Database system** is the place where all raw and processed data are stored. 
-**Search server** is responsible for information retrieval tasks. 
-**User interface** enables users to search for job openings on tweets and provide feedback if necessary.
+* **Twitter Catcher** is in touch with Twitter API for gathering tweets. 
+* **Database system** is the place where all raw and processed data are stored. 
+* **Search server** is responsible for information retrieval tasks. 
+* **User interface** enables users to search for job openings on tweets and provide feedback if necessary.
 
 
 ### Configuration

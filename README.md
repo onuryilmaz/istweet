@@ -27,6 +27,10 @@ Design of İşTweet is divided into four main components according to their func
 Twitter Catcher configuration
 
 solr configuration
+**Twitter Catcher**:
+* [twitter4j.properties](https://github.com/cornetto/istweet/blob/master/Twitter%20Catcher/twitter-catcher/src/main/resources/twitter4j.properties) file should be changed to reflect the Twitter application credentials gathered from [dev.twitter.com](https://dev.twitter.com)
+* [catcher.properties](https://github.com/cornetto/istweet/blob/master/Twitter%20Catcher/twitter-catcher/src/main/resources/twitter4j.properties) file should be changed to reflect MySQL user, password and URLs for "Raw Tweet Database" and "Processed Tweet Database".
+* Twitter Catcher should be deployed to an application server that supports J2EE technologies, like JBoss of Glassfish.
 
 **User Interface**:
 * [solrstrap.js](https://github.com/cornetto/istweet/blob/master/Web%20GUI/Source/bootstrap/js/solrstrap.js) file has a variable named as SERVERROOT and it should contain the URL of the search server.

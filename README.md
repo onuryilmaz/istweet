@@ -45,5 +45,4 @@ Design of İşTweet is divided into four main components according to their func
 * [solrstrap.js](https://github.com/cornetto/istweet/blob/master/Web%20GUI/Source/bootstrap/js/solrstrap.js) file has a variable named as SERVERROOT and it should contain the URL of the search server.
 * User interface should be deployed to a web server or any platform that can run HTML and JS.
 
-
-[Türkçe açıklama için tıklayınız!](https://github.com/cornetto/istweet/blob/master/README_tr.md)  
+ 
